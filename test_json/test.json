@@ -1,0 +1,97 @@
+{
+    "resumes_data": [
+        {
+            "name": {
+                "firstname": "John",
+                "middlename": "",
+                "lastname": "Doe"
+            },
+            "experience": [
+                {
+                    "company": "ABC Consultants",
+                    "desg": "Junior Developer",
+                    "start": "2020-11-01",
+                    "end": "2024-11-01"
+                },
+                {
+                    "company": "DEF Tech",
+                    "desg": "Associate Developer",
+                    "start": "2024-11-01",
+                    "end": ""
+                }
+            ],
+            "skills": [
+                "Python",
+                "C",
+                "C++"
+            ],
+            "rawdata": "resume output lorem ipsum dolor..."
+        },
+        {
+            "name": {
+                "firstname": "Bob",
+                "middlename": "",
+                "lastname": "Charles"
+            },
+            "experience": [
+                {
+                    "company": "P3 Ltd",
+                    "desg": "Sales Manager",
+                    "start": "1990-11-01",
+                    "end": "2000-11-01"
+                },
+                {
+                    "company": "FUN Times",
+                    "desg": "Senior Sales Manager",
+                    "start": "2000-11-01",
+                    "end": "2020-11-01"
+                },
+                {
+                    "company": "DSD Consultants",
+                    "desg": "Director",
+                    "start": "2020-11-01",
+                    "end": "2023-11-01"
+                }
+            ],
+            "skills": [
+                "Sales",
+                "Marketing",
+                "Risk Management",
+                "Management"
+            ],
+            "rawdata": "some more raw data"
+        },
+        {
+            "name": {
+                "firstname": "Alice",
+                "middlename": "",
+                "lastname": "Adams"
+            },
+            "experience": [
+                {
+                    "company": "HH Industries",
+                    "desg": "Assistant Accountant",
+                    "start": "2020-11-01",
+                    "end": "2024-11-01"
+                },
+                {
+                    "company": "HH Industries",
+                    "desg": "Accountant",
+                    "start": "2024-11-01",
+                    "end": ""
+                }
+            ],
+            "skills": [
+                [
+                    "Commerce",
+                    "Accounting",
+                    "Costing"
+                ],
+                "Taxation",
+                "Risk assessment"
+            ],
+            "rawdata": "Raw data for Alice.."
+        }
+    ],
+    "count": 3
+}
